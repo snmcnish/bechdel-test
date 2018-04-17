@@ -76,6 +76,7 @@ imdb_crew_info <- merge(x = imdb_crew_long2, y = imdb_names, by = "nconst", all.
 imdb_cast_info <- merge(x = imdb_cast2, y = imdb_names, by = "nconst", all.x = TRUE)
 
 # write to csv
-write.csv(bechdel.ratings.title, "~/classes/msan622/project/bechdel-test/bechdeltestdata.csv")
-write.csv(imdb_crew_info, "~/classes/msan622/project/bechdel-test/crewinfo.csv")
-write.csv(imdb_cast_info, "~/classes/msan622/project/bechdel-test/castinfo")
+write.csv(bechdel.ratings.title, "~/classes/msan622/project/bechdel-test/bechdeltestdata.csv", row.names = FALSE)
+write.csv(imdb_crew_info, "~/classes/msan622/project/bechdel-test/crewinfo.csv", row.names = FALSE)
+write.csv(imdb_cast_info, "~/classes/msan622/project/bechdel-test/castinfo.csv", row.names = FALSE)
+

@@ -1,8 +1,8 @@
 # bechdel-test
 
-Bechdel Test data is from: http://bechdeltest.com 
+Bechdel Test data is from: http://bechdeltest.com - 7,656 movies from 1888 to 2018
 
-IMDB data was pulled here: https://datasets.imdbws.com/
+Supporting IMDB information was pulled from datasets found here: https://datasets.imdbws.com/
 * title.basics.tsv
 * title.crew.tsv
 * title.ratings.tsv

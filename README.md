@@ -14,6 +14,10 @@ Supporting IMDB information was pulled from datasets found here: https://dataset
 * title.principals.tsv
 * name.basics.tsv
 
-The data is organized in this repo in the "data" folder. Within this folder, the "reshaped" folder contains data files mentioned above that was merged and reshaped for analysis. The "clean" folder contains the reshaped data with fixes for missing values and additional features. 
+The data is organized in this repo in the *data* folder. Within this folder, the *reshaped* folder contains data files mentioned above that was merged and reshaped for analysis. The *clean* folder contains the reshaped data with fixes for missing values and additional features. 
 
 ## Code
+
+The code is located in the folder called *code* and contains 3 scripts:
+
+1. acquire_reshape_data.R - 

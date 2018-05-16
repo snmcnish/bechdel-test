@@ -1,7 +1,6 @@
+# load required packages
 library(tidyverse)
 library(stringr)
-
-
 
 # read in data from bechdeltest.com
 bechdel <-jsonlite::read_json('http://bechdeltest.com/api/v1/getAllMovies',simplifyVector = TRUE)%>%
@@ -9,6 +8,7 @@ bechdel <-jsonlite::read_json('http://bechdeltest.com/api/v1/getAllMovies',simpl
   mutate(year=as.numeric(year),
          id=as.numeric(id))
 
+# add column names 
 colnames(bechdel) <- c("tconst", "id", "title", "bechdel_rating", "year")
 
 # read in IMDB ratings data

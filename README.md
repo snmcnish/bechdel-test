@@ -2,9 +2,10 @@
 
 This project is designed to visualize the patterns and trends of the movies that pass and fail the Bechdel Test. 
 
-To pass the Bechdel test, the movie has to have three criteria:1. It has two women in it2. Who talk to each other3. About something other than a man
-
-Website containing the visualizations can be found here: https://sites.google.com/dons.usfca.edu/bechdel-viz/home
+To pass the Bechdel test, the movie has to have three criteria:
+1. It has two women in it
+2. Who talk to each other
+3. About something other than a man
 
 ## Data
 Bechdel Test data is from: http://bechdeltest.com - 7,656 movies from 1888 to 2018
@@ -28,3 +29,10 @@ The code is located in the folder called *code* and contains 3 scripts:
 
 3. Final Project Plots.ipynb - Reads in cleaned data sets, prepares data for plotting, creates Plotly plots, and exports html code for embedding into the website.
 
+## Slides
+Final presentation slides are located on the top level in this repo.
+
+## Website URL
+Website containing the visualizations can be found here: https://sites.google.com/dons.usfca.edu/bechdel-viz/home
+
+## Video Demonstration 

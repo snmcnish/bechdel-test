@@ -33,7 +33,7 @@ The code is located in the folder called *code* and contains 3 scripts:
 Final presentation slides are located on the top level in this repo.
 
 ## Website URL
-Website containing the visualizations can be found here: https://sites.google.com/dons.usfca.edu/bechdel-viz/home
+Website containing the visualizations can be found here: https://sites.google.com/view/bechdel-viz/home
 
 ## Video Demonstration 
 

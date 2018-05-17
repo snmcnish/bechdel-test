@@ -36,6 +36,7 @@ Final presentation slides are located on the top level in this repo.
 Website containing the visualizations can be found here: https://sites.google.com/view/bechdel-viz/home
 
 ## Video Demonstration 
+The video demonstration is located in the top level in this repo. 
 
 ## Tableau workbook for last plot
-The tableau workbook can be downloaded from where it is hosted publicly here: https://public.tableau.com/views/BechdelMovieExplorer/Sheet13?:embed=y&:display_count=yes&publish=yes
+The tableau workbook can be downloaded from where it is hosted publicly here: https://public.tableau.com/views/BechdelMovieExplorer/Sheet13?:embed=y&:display_count=yes&publish=yes . It is also located on the top level of this repo.
